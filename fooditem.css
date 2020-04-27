@@ -1,0 +1,13 @@
+body {background-color: whitesmoke; text-align:center; color: orange; font-style: italic;margin-left: 400px;margin-right: 400px; }
+#btn{padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:12px;
+  margin: 8px 4px;}
+  #c1 {font-size: 30px;text-align: center; color: khaki;}
+  footer {color: dimgrey; font-size: 15px;text-align: right;}
+
+h2 {color:black;padding: 8px 8px; background-color: lightgray; }
+#alldata {color:green; font-size: 15px; font-style: italic;text-align: center;}
+
